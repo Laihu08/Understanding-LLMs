@@ -37,15 +37,15 @@ A **Large Language Model (LLM)** is a deep learning model that processes **text*
 
 LLMs are built using **three key components**:
 
-### **1️⃣ Data Collection**  
+## **1️⃣ Data Collection**  
    - Extracted from books, articles, research papers, and internet conversations.
    - Pre-processing removes duplicates, errors, and unwanted text.
 
-### **2️⃣ Model Architecture**  
+## **2️⃣ Model Architecture**  
    - Uses the **Transformer Neural Network** (introduced by Google in 2017).
    - Transformers utilize **self-attention** to understand relationships between words.
 
-### **3️⃣ Training Process**  
+## **3️⃣ Training Process**  
    - The model predicts the **next word** in a sentence.
    - Gradually improves over multiple iterations using **backpropagation**.
 
@@ -76,11 +76,11 @@ graph TD
 ```
 ## 🟢 4. Training Process: Step-by-Step 🔄
 
-# 📌 How does an LLM learn?
-# 1️⃣ Starts with random predictions
-# 2️⃣ Compares predictions with real data
-# 3️⃣ Adjusts internal weights using backpropagation
-# 4️⃣ Repeats until it generates high-quality text
+### 📌 How does an LLM learn?
+### 1️⃣ Starts with random predictions
+### 2️⃣ Compares predictions with real data
+### 3️⃣ Adjusts internal weights using backpropagation
+### 4️⃣ Repeats until it generates high-quality text
 
 
 ```mermaid
@@ -99,23 +99,23 @@ sequenceDiagram
 
 ## 🟢 5. Business Applications of LLMs 🚀
 
-# 📍 1. Customer Support 🤖
+### 📍 1. Customer Support 🤖
 AI chatbots handle customer inquiries efficiently.
 Reduces response time and workload for human agents.
 
-# 📍 2. Content Generation ✍️
+### 📍 2. Content Generation ✍️
 Writes articles, blogs, and product descriptions.
 Generates personalized email campaigns.
 
-# 📍 3. Software Development 🖥️
+### 📍 3. Software Development 🖥️
 Assists with code generation and debugging.
 Enhances developer productivity.
 
-# 📍 4. Data Analysis 📊
+### 📍 4. Data Analysis 📊
 Summarizes large datasets for better insights.
 Automates report generation.
 
-# 📍 5. AI-Powered Personal Assistants 🏆
+### 📍 5. AI-Powered Personal Assistants 🏆
 Virtual assistants like ChatGPT use LLMs for human-like conversations.
 
 
@@ -130,7 +130,3 @@ As AI advances, LLMs will become more:
 📌 Open an issue if you have questions!
 📌 Pull Requests are welcome for improvements!
 
-## 🔗 Useful Resources:
-🔗 OpenAI GPT Models
-🔗 Transformers in NLP
-🔗 The Transformer Model Explained
